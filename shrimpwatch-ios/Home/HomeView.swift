@@ -43,6 +43,12 @@ struct HomeView: View {
         } label: {
             Text("Panduan Penggunaan")
         }
+        
+        NavigationLink {
+            CameraYolo()
+        } label: {
+            Text("Camera Yolo")
+        }
     }
 }
 

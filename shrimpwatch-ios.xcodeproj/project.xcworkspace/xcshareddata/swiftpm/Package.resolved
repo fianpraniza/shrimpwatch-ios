@@ -1,0 +1,24 @@
+{
+  "originHash" : "fe8266aded058ed365d6c0208ee93b6b49b2bb636bb5eb0d779fc8db27fc939d",
+  "pins" : [
+    {
+      "identity" : "yolo-ios-app",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ultralytics/yolo-ios-app",
+      "state" : {
+        "branch" : "main",
+        "revision" : "44d82bf1fdcc7c605dacc58ee938878bb1276abd"
+      }
+    },
+    {
+      "identity" : "zipfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/weichsel/ZIPFoundation.git",
+      "state" : {
+        "revision" : "22787ffb59de99e5dc1fbfe80b19c97a904ad48d",
+        "version" : "0.9.20"
+      }
+    }
+  ],
+  "version" : 3
+}
